@@ -1,0 +1,1 @@
+This project is a very simple project with a single algorithm, but it can meet the confusion of novice players in firearm modification. It is currently under development and will be launched as soon as BF6 is released. Welcome to use it
